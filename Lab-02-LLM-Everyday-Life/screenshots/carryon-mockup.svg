@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="1200" height="780" fill="#E2F3F1"/>
+<text x="600" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#0F172A">CarryOn: never leave without what you need</text>
+<text x="600" y="76" text-anchor="middle" font-size="16" fill="#64748B">App mock-up: Today checklist, Left-behind alert, Ask CarryOn (LLM assistant)</text>
+<rect x="50" y="100" width="320" height="640" rx="34" fill="#0F172A"/>
+<rect x="60" y="110" width="300" height="620" rx="26" fill="#FFFFFF"/>
+<rect x="60" y="110" width="300" height="70" rx="26" fill="#0F766E"/><rect x="60" y="150" width="300" height="30" fill="#0F766E"/>
+<text x="80" y="152" font-size="20" font-weight="bold" fill="#fff">Today</text>
+<rect x="60" y="676" width="300" height="54" rx="0" fill="#F1F5F9"/>
+<text x="105" y="708" text-anchor="middle" font-size="12" fill="#0F766E">Today</text>
+<text x="175" y="708" text-anchor="middle" font-size="12" fill="#64748B">Items</text>
+<text x="245" y="708" text-anchor="middle" font-size="12" fill="#64748B">Ask</text>
+<text x="315" y="708" text-anchor="middle" font-size="12" fill="#64748B">Alerts</text>
+<text x="80" y="212" font-size="15" fill="#0F172A" font-weight="bold">Good morning!</text>
+<text x="80" y="232" font-size="12" fill="#64748B">Mon: 3 lectures, 1 lab, 1 deadline</text>
+<rect x="78" y="248" width="264" height="52" rx="12" fill="#ECFDF5" stroke="#0F766E"/>
+<text x="92" y="270" font-size="12" fill="#0F766E" font-weight="bold">NEXT: Data Structures Lab, 10:00</text>
+<text x="92" y="289" font-size="11" fill="#64748B">Block B, Lab 2 (suggested by AI)</text>
+<rect x="78" y="322" width="264" height="40" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="90" y="331" width="22" height="22" rx="6" fill="#0F766E" stroke="#0F766E" stroke-width="2"/>
+<path d="M95 342 L100 347 L108 337" stroke="#fff" stroke-width="3" fill="none"/>
+<text x="124" y="347" font-size="14" fill="#0F172A">ID card</text>
+<text x="328" y="347" text-anchor="end" font-size="10" fill="#0F766E">in bag</text>
+<rect x="78" y="372" width="264" height="40" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="90" y="381" width="22" height="22" rx="6" fill="#0F766E" stroke="#0F766E" stroke-width="2"/>
+<path d="M95 392 L100 397 L108 387" stroke="#fff" stroke-width="3" fill="none"/>
+<text x="124" y="397" font-size="14" fill="#0F172A">Laptop</text>
+<text x="328" y="397" text-anchor="end" font-size="10" fill="#0F766E">in bag</text>
+<rect x="78" y="422" width="264" height="40" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="90" y="431" width="22" height="22" rx="6" fill="#0F766E" stroke="#0F766E" stroke-width="2"/>
+<path d="M95 442 L100 447 L108 437" stroke="#fff" stroke-width="3" fill="none"/>
+<text x="124" y="447" font-size="14" fill="#0F172A">Lab manual</text>
+<text x="328" y="447" text-anchor="end" font-size="10" fill="#0F766E">in bag</text>
+<rect x="78" y="472" width="264" height="40" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="90" y="481" width="22" height="22" rx="6" fill="#fff" stroke="#0F766E" stroke-width="2"/>
+<text x="124" y="497" font-size="14" fill="#0F172A">USB drive</text>
+<text x="328" y="497" text-anchor="end" font-size="10" fill="#B45309">not detected</text>
+<rect x="78" y="522" width="264" height="40" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="90" y="531" width="22" height="22" rx="6" fill="#fff" stroke="#0F766E" stroke-width="2"/>
+<text x="124" y="547" font-size="14" fill="#0F172A">Charger</text>
+<text x="328" y="547" text-anchor="end" font-size="10" fill="#B45309">not detected</text>
+<rect x="78" y="572" width="264" height="40" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="90" y="581" width="22" height="22" rx="6" fill="#fff" stroke="#0F766E" stroke-width="2"/>
+<text x="124" y="597" font-size="14" fill="#0F172A">Water bottle</text>
+<text x="328" y="597" text-anchor="end" font-size="10" fill="#B45309">not detected</text>
+<rect x="78" y="626" width="264" height="42" rx="21" fill="#0F766E"/>
+<text x="210" y="652" text-anchor="middle" font-size="15" fill="#fff" font-weight="bold">Ready to go</text>
+<rect x="440" y="100" width="320" height="640" rx="34" fill="#0F172A"/>
+<rect x="450" y="110" width="300" height="620" rx="26" fill="#FFFFFF"/>
+<rect x="450" y="110" width="300" height="70" rx="26" fill="#0F766E"/><rect x="450" y="150" width="300" height="30" fill="#0F766E"/>
+<text x="470" y="152" font-size="20" font-weight="bold" fill="#fff">Alert</text>
+<rect x="450" y="676" width="300" height="54" rx="0" fill="#F1F5F9"/>
+<text x="495" y="708" text-anchor="middle" font-size="12" fill="#64748B">Today</text>
+<text x="565" y="708" text-anchor="middle" font-size="12" fill="#64748B">Items</text>
+<text x="635" y="708" text-anchor="middle" font-size="12" fill="#64748B">Ask</text>
+<text x="705" y="708" text-anchor="middle" font-size="12" fill="#64748B">Alerts</text>
+<rect x="468" y="198" width="264" height="86" rx="14" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2"/>
+<text x="484" y="226" font-size="16" font-weight="bold" fill="#92400E">Left something behind!</text>
+<text x="484" y="250" font-size="13" fill="#92400E">Charger is 25 m from your phone.</text>
+<text x="484" y="270" font-size="12" fill="#92400E">Last seen: Lab 2, Block B, 10:42</text>
+<rect x="468" y="300" width="264" height="190" rx="14" fill="#DBEAFE"/>
+<circle cx="600" cy="395" r="30" fill="none" stroke="#93C5FD" stroke-width="2"/>
+<circle cx="600" cy="395" r="60" fill="none" stroke="#93C5FD" stroke-width="2"/>
+<circle cx="600" cy="395" r="90" fill="none" stroke="#93C5FD" stroke-width="2"/>
+<circle cx="600" cy="395" r="9" fill="#0F766E"/><text x="600" y="430" text-anchor="middle" font-size="11" fill="#0F172A">You</text>
+<circle cx="655" cy="350" r="9" fill="#DC2626"/><text x="655" y="334" text-anchor="middle" font-size="11" fill="#0F172A">Charger</text>
+<rect x="468" y="508" width="126" height="42" rx="21" fill="#0F766E"/><text x="531" y="534" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">Ring tag</text>
+<rect x="606" y="508" width="126" height="42" rx="21" fill="#fff" stroke="#0F766E" stroke-width="2"/><text x="669" y="534" text-anchor="middle" font-size="13" fill="#0F766E" font-weight="bold">Picked up</text>
+<text x="600" y="590" text-anchor="middle" font-size="12" fill="#64748B">Smart tags also alert you when you</text>
+<text x="600" y="607" text-anchor="middle" font-size="12" fill="#64748B">leave a room, lab or bus without an item.</text>
+<rect x="830" y="100" width="320" height="640" rx="34" fill="#0F172A"/>
+<rect x="840" y="110" width="300" height="620" rx="26" fill="#FFFFFF"/>
+<rect x="840" y="110" width="300" height="70" rx="26" fill="#0F766E"/><rect x="840" y="150" width="300" height="30" fill="#0F766E"/>
+<text x="860" y="152" font-size="20" font-weight="bold" fill="#fff">Ask CarryOn</text>
+<rect x="840" y="676" width="300" height="54" rx="0" fill="#F1F5F9"/>
+<text x="885" y="708" text-anchor="middle" font-size="12" fill="#64748B">Today</text>
+<text x="955" y="708" text-anchor="middle" font-size="12" fill="#64748B">Items</text>
+<text x="1025" y="708" text-anchor="middle" font-size="12" fill="#64748B">Ask</text>
+<text x="1095" y="708" text-anchor="middle" font-size="12" fill="#64748B">Alerts</text>
+<rect x="920" y="200" width="204" height="44" rx="14" fill="#0F766E"/>
+<text x="934" y="227" font-size="12" fill="#fff">What do I need tomorrow?</text>
+<rect x="858" y="262" width="256" height="260" rx="14" fill="#F1F5F9"/>
+<text x="872" y="288" font-size="13" fill="#0F172A" font-weight="bold">Tomorrow (Tue):</text>
+<text x="872" y="307" font-size="13" fill="#0F172A" font-weight="bold">Networks Lab, 9:00</text>
+<text x="872" y="326" font-size="13" fill="#0F172A" >  - Laptop and charger</text>
+<text x="872" y="345" font-size="13" fill="#0F172A" >  - Lab manual, USB drive</text>
+<text x="872" y="364" font-size="13" fill="#0F172A" font-weight="bold">Assignment 2 due 5pm</text>
+<text x="872" y="383" font-size="13" fill="#0F172A" >  - Printed copy + ID card</text>
+<text x="872" y="402" font-size="13" fill="#0F172A" font-weight="bold">Rain forecast</text>
+<text x="872" y="421" font-size="13" fill="#0F172A" >  - Umbrella</text>
+<text x="872" y="440" font-size="13" fill="#0F172A" ></text>
+<text x="872" y="459" font-size="13" fill="#0F172A" >Want me to add these to your</text>
+<text x="872" y="478" font-size="13" fill="#0F172A" >checklist and set a 7:30pm</text>
+<text x="872" y="497" font-size="13" fill="#0F172A" >packing reminder tonight?</text>
+<rect x="858" y="620" width="264" height="42" rx="21" fill="#fff" stroke="#CBD5E1" stroke-width="2"/>
+<text x="876" y="646" font-size="13" fill="#64748B">Ask about your day...</text>
+</svg>
