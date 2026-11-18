@@ -1,0 +1,9 @@
+{
+  "parameters": 818432,
+  "train_loss": 1.2996,
+  "val_loss": 1.2649,
+  "val_perplexity": 3.543,
+  "val_bits_per_char": 1.825,
+  "random_guess_perplexity": 68,
+  "training_minutes": 30.72
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "vocab_size": 68,
+    "block_size": 128,
+    "n_layer": 4,
+    "n_head": 4,
+    "n_embd": 128,
+    "dropout": 0.1
+  },
+  "vocab_size": 68,
+  "metrics": {
+    "parameters": 818432,
+    "train_loss": 1.2996,
+    "val_loss": 1.2649,
+    "val_perplexity": 3.543,
+    "val_bits_per_char": 1.825,
+    "random_guess_perplexity": 68,
+    "training_minutes": 30.72
+  }
+}

@@ -1,0 +1,8 @@
+Experiment,Layers,Heads,Epochs,Parameters,Val loss,Val perplexity,Time (s)
+Layers: 1,1,4,4,223616,1.9706,7.175,155
+Layers: 2,2,4,4,421888,1.9562,7.073,317
+"Baseline (4 layers, 4 heads)",4,4,4,818432,1.9268,6.868,583
+Heads: 1,4,1,4,818432,1.9196,6.819,363
+Heads: 8,4,8,4,818432,1.9354,6.927,786
+Epochs: 2,4,4,2,818432,2.2345,9.342,267
+Epochs: 8,4,4,8,818432,1.4619,4.314,1189
