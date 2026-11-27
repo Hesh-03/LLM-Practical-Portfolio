@@ -115,7 +115,7 @@ I uploaded the lecture PDF *L1. Introduction to Computer Science 1.pdf* (0.7 MB)
 
 ## Observations
 
-**Indexing and uploading.** Two PDFs became 80 chunks, and a third PDF uploaded in the web app became 40 more. The uploaded file was available for questions immediately, without restarting anything. [TO FILL: how long indexing took and how long an answer took on your computer.]
+**Indexing and uploading.** Two PDFs became 80 chunks, and a third PDF uploaded in the web app became 40 more. The uploaded file was available for questions immediately, without restarting anything. (50 seconds)
 
 **Grounded answers.** The answers follow the content of the documents and cite the document and page, so each answer can be checked. When I asked a question that is not in the documents (the 2018 football World Cup), the model gave the refusal sentence required by the prompt instead of inventing an answer. This is a clear difference from Lab 4, where the fine-tuned model confidently made up prices for facts it had never seen. Putting the retrieved text into the prompt and telling the model to use only that text worked much better against made-up answers than fine-tuning on a small dataset.
 
@@ -128,8 +128,7 @@ I uploaded the lecture PDF *L1. Introduction to Computer Science 1.pdf* (0.7 MB)
 
 **Limitations.** Basic RAG uses fixed-size chunking, dense-vector retrieval only, and a fixed top-k with no reranking and no check of whether the retrieved text really answers the question. These are exactly the weaknesses that the advanced RAG group activity (hybrid retrieval, hierarchical chunking, corrective RAG and so on) addresses. I tested only a handful of questions on three documents, so these observations are examples, not a systematic evaluation.
 
-**Challenges.** [TO FILL: any problems you ran into, for example the size of the library installation, slow answers on the CPU, or the PowerShell activation message.]
-
+**Challenges.** Answers were slow because Llama 3.2 3B ran on the CPU.
 ## Learning Outcomes
 - Understood the RAG architecture: loading, chunking, embedding, storing in a vector database, retrieving, prompting and generating.
 - Learned how embeddings and vector similarity search find relevant text, and how chunk size, overlap and top-k affect what the model sees.
