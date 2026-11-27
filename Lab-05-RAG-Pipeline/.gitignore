@@ -1,0 +1,11 @@
+# Do not push the virtual environment, the vector database or runtime files
+rag_env/
+.venv/
+chroma_db/
+uploads/
+.env
+__pycache__/
+*.pyc
+
+app/documents/*.pdf
+!app/documents/SAMPLE_*.pdf
